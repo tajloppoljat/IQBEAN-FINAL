@@ -1,0 +1,20 @@
+/* Global reset */
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+/* Add basic utility classes if needed */
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Tailwind-specific overrides (if applicable) */
+@import url("https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css");
